@@ -27,4 +27,4 @@
 - Valores monetários em centavos.
 - Validar permissões no servidor.
 - Não excluir histórico financeiro silenciosamente.
-- Testar antes de publicar.
+- Testar antes de publicar
